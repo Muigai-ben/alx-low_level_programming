@@ -1,7 +1,8 @@
 #include<stdio.h>
 /**
- * main - size of variouus computers
- * Return 0 (Success)
+ * main - printing sizes
+ *
+ * Return: 0 (Success)
  */
 int main(void)
 {
