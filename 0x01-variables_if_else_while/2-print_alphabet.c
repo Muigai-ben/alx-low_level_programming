@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - alphabet in lowercase,
+ * main - alphabet in lowercase
  * 
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	char ch;
 
