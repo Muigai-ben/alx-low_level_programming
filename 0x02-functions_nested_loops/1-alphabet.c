@@ -2,12 +2,13 @@
 
 
 	/**
-	 * print_alphabet - print all alphabet in lowercase
+	 * print alphabet - print all alphabet in lowercase
 	 *
+	 * Return:void
 	 */
 
 
-	void print_alphabet(void)
+	void print_alphabet (void)
 	{
 		char letter;
 
