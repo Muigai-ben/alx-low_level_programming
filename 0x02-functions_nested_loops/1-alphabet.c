@@ -8,7 +8,7 @@
 	 */
 
 
-	void print_alphabet(void)
+	void print alphabet(void)
 	{
 		char letter;
 
