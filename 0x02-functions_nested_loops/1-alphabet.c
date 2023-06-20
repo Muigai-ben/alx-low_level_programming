@@ -1,15 +1,12 @@
-#include "main.h"
+#include "main"
 
+/**
+ * print_alphabet - make alphabets
+ *
+ * Return:void
+ */
 
-	/**
-	 * print_alphabet - print all alphabet in lowercase
-	 * print the alphabets
-	 * Description: this function prints all the lowercase
-	 * Return:void
-	 */
-
-
-	void print_alphabet(void)
+void print_alphabet(void)
 	{
 		char letter;
 
